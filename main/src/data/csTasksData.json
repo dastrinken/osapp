@@ -1,0 +1,238 @@
+{
+  "topic": "Informatik",
+  "tasks": [
+    {
+      "id": 0,
+      "type": "reading",
+      "title": "Übergang Thema 1",
+      "summarySubSection": "Teil 1 - Mathematik",
+      "content": [
+        "Jetzt weißt du ja schon einiges über den Studiengang!",
+        "Aber du bist ja hier um herauszufinden, ob Medieninformatik auch etwas für dich ist.",
+        "Setzen wir uns also einfach an einen ruhigen Lernort…",
+        "[img]thm_bib2.jpg",
+        "…und steigen mal so richtig in die Themen ein!"
+      ]
+    },
+    {
+      "id": 1,
+      "type": "reading",
+      "title": "Einleitung Informatik",
+      "summarySubSection": "Teil 1 - Mathematik",
+      "content": [
+        "Erstes Thema: Informatik",
+        "[img]informatik.jpg",
+        "Interesse an der Informatik ist ein Muss!",
+        "Denn sie ist ein großer Teil dieses Studiums.",
+        "Vielleicht kennst du dich schon ein bisschen aus?",
+        "Mathematik und Logik sind in der Informatik stark verankert.",
+        "Wie wärs mit ein paar Logikfragen zum Einstieg?"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "quiz",
+      "style": "single",
+      "title": "Zahlenreihe Dezimal",
+      "summarySubSection": "Teil 1 - Mathematik",
+      "question": "Zahlenreihen und -folgen sind Grundlagen, die du im Studium lernst. Versuche dich doch mal daran: Wie geht diese Folge weiter: 1, 1, 2, 3, 5, 8, ?",
+      "choices": ["10", "11", "13", "15", "22", "36"],
+      "correctChoices": ["13"]
+    },
+    {
+      "id": 3,
+      "type": "quiz",
+      "style": "single",
+      "title": "Zahlenreihe Binär",
+      "summarySubSection": "Teil 1 - Mathematik",
+      "question": "Wie geht diese binäre Zahlenfolge weiter: 1, 10, 11, 100, 101, 110, 111, 1000, ?",
+      "choices": ["1101", "1011", "1001", "1110", "1111"],
+      "correctChoices": ["1001"]
+    },
+    {
+      "id": 4,
+      "type": "quiz",
+      "style": "single",
+      "title": "Binäre Darstellung",
+      "summarySubSection": "Teil 1 - Mathematik",
+      "question": "1011 ist die binäre Darstellung welcher Dezimalzahl?",
+      "choices": ["1", "10", "11", "15", "19", "128", "1011"],
+      "correctChoices": ["11"]
+    },
+    {
+      "id": 5,
+      "type": "reading",
+      "title": "Einleitung Webentwicklung",
+      "summarySubSection": "Teil 2 - Web",
+      "content": [
+        "Nach dieser Übung kommen wir zum ersten praktischen Thema",
+        "[img]internet.jpg",
+        "Das Internet ist ein fester Teil unseres Alltags geworden.",
+        "Als Medieninformatiker*in gestaltest du es aktiv mit.",
+        "Was bedeutet, dass du dich im Studium intensiv mit Webentwicklung beschäftigen wirst.",
+        "Schauen wir mal ob du schon etwas Wissen mitbringst."
+      ]
+    },
+    {
+      "id": 6,
+      "type": "quiz",
+      "style": "multiple",
+      "title": "Webseiten erstellen",
+      "summarySubSection": "Teil 2 - Web",
+      "question": "Was solltest du können um eine moderne, interaktive Webseite zu erstellen?",
+      "choices": ["HTML", "CSS", "JavaScript", "Java", "C++", "Wordpress"],
+      "correctChoices": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "id": 7,
+      "type": "quiz",
+      "style": "multiple",
+      "title": "Betriebssysteme",
+      "summarySubSection": "Teil 2 - Web",
+      "question": "2023 laufen 81.3% aller Webseiten auf einem Unix-System. Unix bezeichnet dabei eine Familie von Betriebssystemen wie zum Beispiel:",
+      "choices": ["Windows Server", "MacOS", "Linux", "Windows 11"],
+      "correctChoices": ["MacOS", "Linux"]
+    },
+    {
+      "id": 8,
+      "type": "quiz",
+      "style": "single",
+      "title": "Quiz Webbrowser",
+      "summarySubSection": "Teil 2 - Web",
+      "question": "Ein Webbrowser hat folgenden primären Zweck:",
+      "choices": [
+        "Webseiten darstellen.",
+        "Webseiten hosten",
+        "Computerspiel",
+        "Tool für Webdesigner"
+      ],
+      "correctChoices": ["Webseiten darstellen."]
+    },
+    {
+      "id": 9,
+      "type": "quiz",
+      "style": "single",
+      "title": "Quiz HTTP",
+      "summarySubSection": "Teil 2 - Web",
+      "question": "Was bedeutet die Abkürzung 'HTTP'?",
+      "choices": [
+        "HyperText Markup Protocol",
+        "HyperText Transfer Protocol",
+        "HyperText Transmission Protocol",
+        "HyperTransfer Text Protocol"
+      ],
+      "correctChoices": ["HyperText Transfer Protocol"]
+    },
+    {
+      "id": 10,
+      "type": "reading",
+      "title": "Einleitung Softwareentwicklung",
+      "summarySubSection": "Teil 3 - Software",
+      "content": [
+        "Gut gemacht! Auf zum nächsten Thema!",
+        "Ein weiterer praktischer Teil der Medieninformatik ist die Softwareentwicklung",
+        "[img]programming.jpg",
+        "Hier lernst du das Programmieren, und wie Softwareprojekte umgesetzt werden",
+        "Dazu wirst du ständig in Gruppen zusammenarbeiten, wie auch später im Berufsleben",
+        "Wichtig ist dabei dein Fachwissen, aber auch Kreativität und Eigeninitiative."
+      ]
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "style": "single",
+      "title": "Algorithmus",
+      "summarySubSection": "Teil 3 - Software",
+      "question": "Was ist ein Algorithmus?",
+      "choices": [
+        "Eine Art Hardware",
+        "Eine Reihe von Anweisungen zur Lösung eines Problems",
+        "Eine Social-Media Anwendung",
+        "Ein Netzwerkprotokoll"
+      ],
+      "correctChoices": ["Eine Reihe von Anweisungen zur Lösung eines Problems"]
+    },
+    {
+      "id": 12,
+      "type": "quiz",
+      "style": "multiple",
+      "title": "Programmiersprachen",
+      "summarySubSection": "Teil 3 - Software",
+      "question": "Wobei handelt es sich um eine Programmiersprache?",
+      "choices": ["Borneo", "Java", "C", "Visual Studio", "Windows"],
+      "correctChoices": ["Java", "C"]
+    },
+    {
+      "id": 13,
+      "type": "quiz",
+      "style": "single",
+      "title": "Wertebereiche",
+      "summarySubSection": "Teil 3 - Software",
+      "question": "Welcher der folgenden Datentypen hat den größten Wertebereich?",
+      "choices": ["byte", "boolean", "int", "long", "short"],
+      "correctChoices": ["long"]
+    },
+    {
+      "id": 14,
+      "type": "reading",
+      "title": "Einleitung interaktive Aufgaben",
+      "summarySubSection": "Interaktive Aufgaben",
+      "content": [
+        "Die nächsten Aufgaben sind keine reinen Quizfragen",
+        "Du sollst im besten Fall selbst etwas ins Grübeln kommen.",
+        "In der ersten Aufgabe geht es darum, den angezeigten Code zu interpretieren",
+        "Versuche dabei so wenige Hilfen wie möglich in Anspruch zu nehmen.",
+        "Viel Spaß!"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "interactive",
+      "title": "Color rectangle 1",
+      "summarySubSection": "Interaktive Aufgaben",
+      "slug": "cs1",
+      "help": [
+        "Hier findest du immer eine Aufgabenstellung und weitere Tipps, besser ist es allerdings, wenn du die Aufgaben ohne Hilfen schaffst.",
+        "Schau dir die Aufgabe an und versuche den Code zu interpretieren, bevor du dir den nächsten Tipp holst.",
+        "Die farblichen Markierungen im Code helfen dir, indem Anweisungen und Bedingungen (if, is) und Eigenschaften (index, color) hervorgehoben werden.",
+        "Befehle in höheren Programmiersprachen entstammen in der Regel dem Englischen und sollen dir das Programmieren verständlicher machen. Übersetze sie einfach!",
+        "Du könntest die if-Anweisung so lesen: 'Wenn eine Bedingung erfüllt (wahr) ist, mache etwas.'",
+        "In diesem Beispiel scheint es mehrere Elemente des Typs 'rectangle' zu geben, die mit einem 'index' nummeriert sind.",
+        "Wenn nun ein rectangle.index gerade (even) ist, soll es rot eingefärbt werden: rectangle.color is red."
+      ]
+    },
+    {
+      "id": 16,
+      "type": "interactive",
+      "title": "Sort by color",
+      "summarySubSection": "Interaktive Aufgaben",
+      "slug": "cs2",
+      "help": [
+        "In unserem Beispiel von eben ist 'rectangle' ein Objekt mit verschiedenen Eigenschaften, wie zum Beispiel einer Farbe.",
+        "Was Objekte, Eigenschaften und Methoden beim Programmieren sind musst du zu diesem Zeitpunkt noch nicht genau verstehen.",
+        "Es reicht, wenn du dir überlegst, welche 'Aussage' der Code hat: Was genau soll ausgeführt werden?",
+        "Du kannst die Rechtecke hier nicht nur antippen, sondern auch vertauschen!",
+        "In diesem Code wird eine Methode 'sortByColor(...)' des Objekts 'rectangles' mit dem Parameter 'red' aufgerufen",
+        "Auf die richtige Lösung kommst du, wenn du den Code (Objekt, Methode, Parameter) übersetzt und überlegst, was sie bewirken soll.",
+        "Die Methode sortByColor soll die Rechtecke nach Farbe sortieren"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "interactive",
+      "title": "Color rectangle 2",
+      "summarySubSection": "Interaktive Aufgaben",
+      "slug": "cs3",
+      "help": [
+        "Hier lernst du den Operator 'Modulo', oder auch 'Restwert' kennen: '%'. Dieser bedeutet so viel wie 'Teile eine Zahl und liefere den Restwert als Ergebnis'.",
+        "Beispiel: Wenn du 5 durch 2 teilst, erhältst du einen Restwert von 1. Versuche dich doch mal an der Aufgabe, bevor du dir den nächsten Tipp holst.",
+        "Auch hier hilft wieder das Übersetzen: if = Wenn …; else if = … ansonsten, wenn …",
+        "Das 'if' ist ein logischer Operator: Es prüft ob eine Aussage wahr oder falsch ist.",
+        "Die Aussage ist das was zwischen dem 'if' und dem ':' steht; Hier zum Beispiel rectangle.index % 2 is 0",
+        "Die Zeile darunter ist die Anweisung, die ausgeführt werden soll, wenn die if-Bedingung zutrifft.",
+        "Du könntest den Code also so lesen: Wenn index modulo zwei als Restwert null ergibt: … Ansonsten: …",
+        "Jetzt musst du nur noch die Rechtecke entsprechend einfärben." 
+      ]
+    }
+  ]
+}

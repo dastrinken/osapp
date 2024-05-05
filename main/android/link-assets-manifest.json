@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/JetBrainsMono-Bold.ttf",
+      "sha1": "8a0806a42bb8c44290735c17fbb439b8d8c08ec5"
+    },
+    {
+      "path": "src/assets/fonts/JetBrainsMono-Italic.ttf",
+      "sha1": "936cdfc58bebc8b39e9aeaad3f2c92e9efc8aec4"
+    },
+    {
+      "path": "src/assets/fonts/JetBrainsMono-Regular.ttf",
+      "sha1": "50fc729787e6133b511444b185c7397bd3ccd3da"
+    },
+    {
+      "path": "src/assets/fonts/PTSans-Bold.ttf",
+      "sha1": "799108b99966f7b1af173fcd435690123300aed3"
+    },
+    {
+      "path": "src/assets/fonts/PTSans-BoldItalic.ttf",
+      "sha1": "5b8d0be4a7e5cee3bef48e65d5cbc4dbda46413f"
+    },
+    {
+      "path": "src/assets/fonts/PTSans-Italic.ttf",
+      "sha1": "07b9ff610ba8ec32ea030695438fbf2df50d8ac9"
+    },
+    {
+      "path": "src/assets/fonts/PTSans-Regular.ttf",
+      "sha1": "fc2d2b511d07b7adcd15e3e421714e9e22ae2058"
+    }
+  ]
+}

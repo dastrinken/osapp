@@ -1,0 +1,127 @@
+{
+  "topic": "Allgemein",
+  "tasks": [
+    {
+      "id": 0,
+      "type": "reading",
+      "title": "Willkommen!",
+      "summarySubSection": "",
+      "content": [
+        "Herzlich Willkommen zur OSApp Medieninformatik!",
+        "[img]thm_gebaeude_b.jpg",
+        "Die App soll dich bei deiner Studienwahl unterstützen.",
+        "Mit Informationen rund um den Studiengang und ein paar Aufgaben.",
+        "Es ist unwichtig, ob du hier alles richtig machst.",
+        "Wichtiger ist, dass du den Studiengang kennenlernst.",
+        "Nimm dir also etwas Zeit und beantworte ganz in Ruhe alle Fragen.",
+        "Es geht immerhin um deine Zukunft!",
+        "Bereit? Dann starten wir direkt auf dem THM-Campus."
+      ]
+    },
+    {
+      "id": 1,
+      "type": "reading",
+      "title": "Allgemeine Information",
+      "summarySubSection": "",
+      "content": [
+        "Denn ebenso wichtig wie der Studiengang ist der Studienort.",
+        "Medieninformatik studierst du am Campus Friedberg",
+        "Schauen wir uns dort mal etwas um. Wir starten beim Haupteingang.",
+        "[img]thm_haupteingang.jpg",
+        "Gehst du hinein, findest du recht schnell den Info-Counter.",
+        "Dort reichst du deine Unterlagen ein und erhältst deinen Studienausweis.",
+        "[img]thm_info.jpg",
+        "Überall in der THM findest du Hör- und Seminarsäle.",
+        "Diese können ganz unterschiedlich aussehen.",
+        "[img]thm_hoersaal.jpg",
+        "Hier findet jedoch nur ein Teil des Unterrichts statt,",
+        "denn jeder Studiengang hat auch Labore,",
+        "[img]thm_medienlabor.jpg",
+        "in denen du auch die Praxis kennenlernen darfst.",
+        "Labore bieten dir, je nach Zweck, ganz unterschiedliche Ausstattung.",
+        "[img]thm_studio.jpg",
+        "Wir können hier leider nicht alles zeigen, aber:",
+        "Komm doch einfach mal vorbei und schau dich selbst etwas um.",
+        "[img]thm_campus.jpg",
+        "Vor Ort triffst du Studierende und kannst dir selbst ein Bild machen.",
+        "zum Beispiel bei einem leckeren Mittagessen in der Mensa.",
+        "[img]thm_mensa.jpg",
+        "Das waren ein paar der wichtigen Orte auf dem Campus Friedberg.",
+        "Lass uns doch mal mit ein paar Fragen anfangen:"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "quiz",
+      "style": "single",
+      "title": "Eigener Überblick",
+      "summarySubSection": "",
+      "question": "Möglicherweise hast du dich schon etwas über die Medieninformatik informiert. Wie schätzt du deinen Überblick ein?",
+      "choices": [
+        "Ich kenne mich gut aus",
+        "Ich weiß grob Bescheid",
+        "Ich lass es auf mich zukommen",
+        "Ich habe mich noch nicht informiert"
+      ],
+      "correctChoices": [
+        "Ich kenne mich gut aus",
+        "Ich weiß grob Bescheid",
+        "Ich lass es auf mich zukommen",
+        "Ich habe mich noch nicht informiert"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "reading",
+      "title": "Weiter so!",
+      "summarySubSection": "",
+      "images": [""],
+      "content": [
+        "Sei am besten immer offen für Neues.",
+        "Und denk daran: Lass dir ruhig Zeit für die Beantwortung der Fragen."
+      ]
+    },
+    {
+      "id": 4,
+      "type": "quiz",
+      "style": "multiple",
+      "title": "Was ist Medieninformatik?",
+      "summarySubSection": "",
+      "question": "Was schätzt du, könnten Themen sein, mit denen du dich im Studium der Medieninformatik beschäftigst?",
+      "choices": [
+        "Webseiten erstellen",
+        "Musikvideos analysieren",
+        "Algorithmen verstehen",
+        "Instrumente aufnehmen und mischen",
+        "Datenbanken planen und erstellen",
+        "Eine App programmieren",
+        "3D-Modellierung"
+      ],
+      "correctChoices": [
+        "Webseiten erstellen",
+        "Musikvideos analysieren",
+        "Algorithmen verstehen",
+        "Instrumente aufnehmen und mischen",
+        "Datenbanken planen und erstellen",
+        "Eine App programmieren",
+        "3D-Modellierung"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "reading",
+      "title": "Vielseitigkeit MI",
+      "summarySubSection": "",
+      "content": [
+        "Tatsächlich beschäftigst du dich im Studium mit all diesen Themen!",
+        "Denn die Medieninformatik ist vielseitig, und so auch der Studiengang.",
+        "Du wirst dich im Laufe des Studiums für einen Schwerpunkt entscheiden müssen",
+        "Doch das schließt nichts aus, denn:",
+        "Neben den Pflichtthemen gibt es noch Wahlfächer.",
+        "So kannst du noch tiefer in deinen Schwerpunkt eintauchen,",
+        "und im jeweils anderen Schwerpunkt einen Blick über den Tellerrand wagen.",
+        "Lass uns doch mal schauen, was Studierende so erschaffen haben."
+      ]
+    }
+  ]
+}
